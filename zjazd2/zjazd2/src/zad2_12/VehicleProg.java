@@ -11,7 +11,7 @@ public class VehicleProg {
         miniVan.range();
         sb.setLength(0);
 
-        sb.append("").append("Auto Sportowe").append(" przewozi ").append(sportsCar.getNumberOfPassengers()).append(" osób");
+        sb.append("Auto Sportowe").append(" przewozi ").append(sportsCar.getNumberOfPassengers()).append(" osób");
         System.out.println(sb);
         sportsCar.range();
 

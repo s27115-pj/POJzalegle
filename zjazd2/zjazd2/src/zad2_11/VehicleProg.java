@@ -1,6 +1,6 @@
 package zad2_11;
 
-import zad2_11.Vehicle;
+
 
 public class VehicleProg {
     public static void main(String[] args) {
